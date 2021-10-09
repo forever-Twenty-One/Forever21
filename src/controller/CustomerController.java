@@ -10,7 +10,7 @@ public class CustomerController {
     }
 
     public String updateCustomer(){
-        return ("customer updated");
+        return ("customer is updated");
     }
 
 }
