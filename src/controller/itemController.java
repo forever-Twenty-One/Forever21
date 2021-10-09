@@ -6,7 +6,7 @@ public class itemController {
     }
 
     public String deleteItem(){
-        return ("Item deleted");
+        return ("Item is deleted");
     }
     public String updateItem(){
         return ("Item updated");
