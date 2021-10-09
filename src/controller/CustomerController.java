@@ -2,7 +2,7 @@ package controller;
 
 public class CustomerController {
     public String saveCustomer(){
-        return ("customer is saved");
+        return ("customer is successfully saved");
     }
 
     public String deleteCustomer(){
