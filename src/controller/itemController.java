@@ -9,7 +9,7 @@ public class itemController {
         return ("Item is deleted");
     }
     public String updateItem(){
-        return ("Item updated");
+        return ("Item is updated");
     }
 
 }
