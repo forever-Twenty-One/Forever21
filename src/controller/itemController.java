@@ -2,7 +2,7 @@ package controller;
 
 public class itemController {
     public String saveItem(){
-        return ("Item saved");
+        return ("Item is saved");
     }
 
     public String deleteItem(){
