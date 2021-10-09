@@ -9,8 +9,6 @@ public class CustomerController {
         return ("customer deleted");
     }
 
-    public String updateCustomer(){
-        return ("customer updated");
-    }
+
 
 }
